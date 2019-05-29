@@ -1,0 +1,14 @@
+{
+  "name": "dirtree",
+  "version": "1.0.0",
+  "description": "Directory Tree Exercise for Endpoint",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Sam Nazarian",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  }
+}
